@@ -11,6 +11,10 @@ h1 {
 }
 table {
 	border:7px;
+	border-style:solid;
+	border-color: black;
+	border-width:7px;
+	border-radius:6px;
 }
 th {
 	font-size:15px
