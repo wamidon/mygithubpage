@@ -9,18 +9,35 @@ h1 {
 	color: #FFFF00; 
 	font-family:verdana;
 }
-table {
+/*table {
 	border:7px;
 	border-style:solid;
 	border-color: black;
 	border-width:2px;
 	border-radius:6px;
 	text-align: left;
+}*/
+.birthdays {
+	border:7px;
+	border-style:solid;
+	border-color: #008080;
+	border-width:2px;
+	border-radius:6px;
+	text-align: center;
 }
-table, th {
+.NewsSites {
+	border:7px;
+	border-style:solid;
+	border-color: #008080;
+	border-width:2px;
+	border-radius:25px;
+	text-align: center;
+}
+}
+/*table, th {
 	font-size:15px
 	border:1px black solid;
-}
+}*/
 div {
 	height:100px;
 	width:240px;
@@ -31,11 +48,12 @@ div {
 	border-radius: 10px;
 	margin:auto;
 	text-align: center;
+	font-size: 25px;
 }
 span {
 	color:#0000FF;
 	font-weight: bold;
-	font-size:15px;
+	font-size:30px;
 }
 a {
 	text-decoration: none;
