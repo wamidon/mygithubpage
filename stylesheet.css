@@ -15,9 +15,11 @@ table {
 	border-color: black;
 	border-width:7px;
 	border-radius:6px;
+	margin:auto;
 }
-th {
+table, th {
 	font-size:15px
+	border:1px black solid;
 }
 div {
 	height:100px;
