@@ -1,1 +1,38 @@
+body {
+	background-color: #FF7F50;
+	color: #008080;
+	font-family: verdana;
+}
 
+h1 {
+	font-size:30px; 
+	color: #FFFF00; 
+	font-family:verdana;
+}
+table {
+	border:7px;
+}
+th {
+	font-size:15px
+}
+div {
+	height:100px;
+	width:240px;
+	border-color: #FF4500;
+	background-color: #FFFF00;
+	border-style: solid;
+	border-width: 10px;
+	border-radius: 10px;
+	margin:auto;
+	text-align: center;
+}
+span {
+	color:#0000FF;
+	font-weight: bold;
+	font-size:15px;
+}
+a {
+	text-decoration: none;
+	color:#FFA07A;
+	font-family:Tahoma;
+}
