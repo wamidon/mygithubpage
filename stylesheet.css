@@ -42,3 +42,13 @@ a {
 	color:#FFA07A;
 	font-family:Tahoma;
 }
+a:link {
+	text-decoration: none;
+	color:#FF1493;
+}
+a:hover {
+	color:#00FF00;
+}
+a:visited {
+	color:#80B000;
+}
