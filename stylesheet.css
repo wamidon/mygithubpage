@@ -41,7 +41,7 @@ span {
 	font-weight: bold;
 	font-size:30px;
 }
-a {
+h4 > a {
 	text-decoration: none;
 	color:#FFA07A;
 	font-family:Tahoma;
